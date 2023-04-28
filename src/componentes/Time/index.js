@@ -8,7 +8,7 @@ const Time = ({ time, colaboradores, aoDeletar }) => {
             <div className='colaboradores'>
                 {colaboradores.map((colaborador, indice) => {
                     //console.log(<Colaborador key={indice} colaborador={colaborador} corDeFundo={time.corSecundaria} aoDeletar ={(a)=>{}} />)
-                    return <Colaborador key={indice} colaborador={colaborador} corDeFundo={time.corSecundaria} aoDeletar ={(aoDeletar)=>{}} />
+                    return <Colaborador key={indice} colaborador={colaborador} corDeFundo={time.corSecundaria} aoDeletar ={aoDeletar} />
                 })}
             </div>
         </section>
