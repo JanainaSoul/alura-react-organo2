@@ -1,3 +1,64 @@
+# Curso Alura - Reac: como os componentes funcionam
+
+# linguagens
+
+HTML
+
+CSS
+
+JavaScript
+
+# Aprendizados:
+
+01 - Importando do Github
+
+Como clonar um projeto;
+
+A diferença entre clone e fork;
+
+Como instalar dependências de um projeto;
+
+Como rodar um projeto.
+
+02 - O que são componentes
+
+Como criar uma nova prop;
+
+Como passar esta prop para inúmeros componentes;
+
+O que é uma closure e como utilizá-la a seu favor;
+
+Como instalar novas dependências na sua aplicação;
+
+Diferença entre export e export default.
+
+03 - Como o React vê um componente 
+
+O que é Virtual DOM;
+
+Como o React escuta uma mudança e porque precisamos de um state para isto;
+
+Diferença de imperatividade e declaratividade.
+
+04 - Criando funcionalidades
+
+A diferença entre two-way data binding e one-way data binding;
+
+Por que o React utiliza one-way data binding;
+
+Por que utilizar id é importante no React.
+
+05 - Finalziando o projeto 
+
+Como criar um ternário para renderizar de forma opcional;
+
+Como renderizar condicionais de outras formas;
+
+Como refatorar um componente sem atrapalhar a execução primária dele;
+
+A importância de se refatorar um componente em projetos React.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
