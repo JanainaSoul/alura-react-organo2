@@ -1,4 +1,4 @@
-# Curso Alura - Reac: como os componentes funcionam
+# Curso Alura - React: como os componentes funcionam
 
 # linguagens
 
